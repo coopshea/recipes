@@ -1,6 +1,6 @@
 # Ramen Noodles (Machine Rolled)
 
-Makes 2 servings. Adapted from the noodle-making class by The Story of Ramen.
+Makes 2 servings. Adapted from the noodle-making class by The Story of Ramen. If you get the chance, go take their class.
 
 **Make batches of 2 servings at most.** At ~39% hydration the dough is too dry to mix evenly in larger amounts. For more servings, mix several batches separately.
 
