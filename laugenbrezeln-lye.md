@@ -1,5 +1,7 @@
 # Laugenbrezeln — Lye Dip, 52% Hydration
 
+Adapted from [Dirndl Kitchen's German pretzel recipe](https://dirndlkitchen.com/german-pretzel-recipe/).
+
 Party batch: 1600 g dough, kneaded by hand. Makes 16 pretzels at 100 g.
 
 ## Formula

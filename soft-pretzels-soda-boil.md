@@ -1,6 +1,6 @@
 # Soft Pretzel Dough — Baking Soda Boil, Bites + Doner Flatbreads
 
-Original recipe, salt corrected to 2%. Party batch = 3000 g, mixed as two 1500 g stand-mixer batches.
+Adapted from [Gimme Some Oven's soft pretzel bites](https://www.gimmesomeoven.com/soft-pretzel-bites/). Original recipe, salt corrected to 2%. Party batch = 3000 g, mixed as two 1500 g stand-mixer batches.
 Makes: 12 brat buns + 30 pretzel bites + 18 doner flatbreads.
 
 ## Original recipe (1×, reference)
