@@ -1,5 +1,7 @@
 # Flour Tortillas — Tortillas de Harina
 
+Adapted from [Mexico in My Kitchen's flour tortillas](https://www.mexicoinmykitchen.com/flour-tortillas-de-harina/).
+
 Makes 10 tortillas, 25 cm (10 in). Dough total 638 g, divided 10 × 64 g.
 
 ## Formula

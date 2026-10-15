@@ -14,6 +14,7 @@ Bread and dough recipes I've collected and made, mostly to share with friends. S
 
 - Laugenbrezeln: adapted from [Dirndl Kitchen's German pretzel recipe](https://dirndlkitchen.com/german-pretzel-recipe/).
 - Soft pretzels: adapted from [Gimme Some Oven's soft pretzel bites](https://www.gimmesomeoven.com/soft-pretzel-bites/).
+- Flour tortillas: adapted from [Mexico in My Kitchen's flour tortillas](https://www.mexicoinmykitchen.com/flour-tortillas-de-harina/).
 - Ramen noodles: adapted from The Story of Ramen's noodle-making class. If you get the chance, go take their class.
 
 ## License
